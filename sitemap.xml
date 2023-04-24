@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://www.example.com/documentation/page-1</loc>
-      <lastmod>2023-04-23</lastmod>
+      <loc>https://github.com/iotexproject/dev-portal-content/blob/main/blogposts/ethdenver-2023.md</loc>
+      <lastmod>2023-03-10</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://www.example.com/documentation/page-2</loc>
-      <lastmod>2023-04-22</lastmod>
+      <loc>https://github.com/iotexproject/dev-portal-content/blob/main/blogposts/gnosis-iotex.md</loc>
+      <lastmod>2023-03-16</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
    </url>
-   <!-- Add more URLs as needed -->
+   <url>
+      <loc>https://github.com/iotexproject/dev-portal-content/blob/main/blogposts/w3bstream-devnet-seed.md</loc>
+      <lastmod>2022-11-12</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://github.com/iotexproject/dev-portal-content/blob/main/blogposts/trusted-location-dev-experience.md</loc>
+      <lastmod>2023-02-17</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc>https://github.com/iotexproject/dev-portal-content/blob/main/blogposts/what-is-a-tee.md</loc>
+      <lastmod>2023-01-10</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
 </urlset>
+   
